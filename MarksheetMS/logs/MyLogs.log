@@ -1,0 +1,10 @@
+[TRACE] 2022-10-19 19:38:18.610 [main] App - This is a trace message
+[INFO ] 2022-10-19 19:38:18.614 [main] App - This is an info message
+[ERROR] 2022-10-19 19:38:18.615 [main] App - This is an error message
+[WARN ] 2022-10-19 19:38:18.615 [main] App - This is a warning message
+[FATAL] 2022-10-19 19:38:18.615 [main] App - This is a fatal message
+[TRACE] 2022-10-19 19:42:15.693 [main] App - This is a trace message
+[INFO ] 2022-10-19 19:42:15.696 [main] App - This is an info message
+[ERROR] 2022-10-19 19:42:15.697 [main] App - This is an error message
+[WARN ] 2022-10-19 19:42:15.698 [main] App - This is a warning message
+[FATAL] 2022-10-19 19:42:15.699 [main] App - This is a fatal message
