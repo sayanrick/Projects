@@ -39,10 +39,10 @@ public class AdminServiceTest {
 
 		// creating admin and setting values
 		Admin admin1 = new Admin();
-		admin1.setAdusername("akash");
-		admin1.setAdname("akash");
-		admin1.setAdpassword("akash");
-		admin1.setAdemail("akash@gmail.com");
+		admin1.setAdusername("Sayan");
+		admin1.setAdname("Sayan");
+		admin1.setAdpassword("Sayan");
+		admin1.setAdemail("sayan@gmail.com");
 
 		// testing admin using Jpa repository method
 		Mockito.when(adminRepo.save(admin1)).thenReturn(admin1);
